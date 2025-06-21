@@ -37,6 +37,7 @@ Spark is designed to behave like a true AI companion — smart, intuitive, a bit
 ## 🖼️ Preview
 
 **Core Loop Response**
+
 🔍 You: What’s happening in the Middle East right now?
 🧠 Spark: Pulling real-time info from the web...
 🌍 Web Info: [Fresh news data about Israel-Iran conflict]
@@ -45,6 +46,7 @@ Spark is designed to behave like a true AI companion — smart, intuitive, a bit
 ---
 
 **Memory Behavior**
+
 You: Remind me what we talked about yesterday
 🧠 Spark: Yesterday you asked about alpha strategies and file transfer encryption. Want to follow up?
 
@@ -52,6 +54,7 @@ You: Remind me what we talked about yesterday
 
 
 **Philosophy Mode**
+
 You: What is consciousness?
 🧠 Spark: That depends — biological emergence or abstract computation? Let's unpack both.
 
