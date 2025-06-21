@@ -1,0 +1,6 @@
+langchain
+openai
+fastapi
+uvicorn
+chromadb
+pydantic
