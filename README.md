@@ -76,41 +76,30 @@ You: What is consciousness?
 
 ---
 
-🧭 Roadmap
+## 🧭 Roadmap
 
-🧬 Train Spark on domain-specific knowledge (e.g. finance, philosophy, science)
-
-🗂️ Knowledge Base Expansion with Document Analysis
-
-👁️‍🗨️ Add Visual/Multimodal Input Support
-
-📱 Deploy on Mobile or Browser with Flask/React
-
-🧠 Fine-tune language model for deeper reasoning
-
-🔗 Plugin System for External APIs and Tools
-
-🧑‍🎓 Learning from User Corrections + Feedback
+- 🧬 Train Spark on domain-specific knowledge (e.g. finance, philosophy, science)
+- 🗂️ Knowledge Base Expansion with Document Analysis
+- 👁️‍🗨️ Add Visual/Multimodal Input Support
+- 📱 Deploy on Mobile or Browser with Flask/React
+- 🧠 Fine-tune language model for deeper reasoning
+- 🔗 Plugin System for External APIs and Tools
+- 🧑‍🎓 Learning from User Corrections + Feedback
 
 ---
 
-💡 Use Cases
+## 💡 Use Cases
 
-🧑‍💻 Personal AI research assistant
-
-📚 Educational tutor with memory
-
-🧘‍♂️ Thought partner for philosophy, ethics, logic
-
-💼 Real-time business analyst (with web + doc tools)
-
-🧠 Simulated personality or consciousness experiments
-
-🔧 Backend for AI-based apps (via API)
+- 🧑‍💻 Personal AI research assistant
+- 📚 Educational tutor with memory
+- 🧘‍♂️ Thought partner for philosophy, ethics, logic
+- 💼 Real-time business analyst (with web + doc tools)
+- 🧠 Simulated personality or consciousness experiments
+- 🔧 Backend for AI-based apps (via API)
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions welcome! Want to make Spark even smarter or more human?
 
@@ -124,13 +113,13 @@ Push and open a PR: git push origin feature-awesome
 
 ---
 
-📄 License
+## 📄 License
 
 Distributed under the MIT License. See LICENSE for more information.
 
 ---
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 OpenAI's LLM APIs & local LLaMA3 support
 
