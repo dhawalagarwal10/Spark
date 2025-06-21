@@ -76,7 +76,8 @@ You: What is consciousness?
 
 ---
 
-🧭 Roadmap
+##🧭 Roadmap
+
 🧬 Train Spark on domain-specific knowledge (e.g. finance, philosophy, science)
 
 🗂️ Knowledge Base Expansion with Document Analysis
@@ -93,7 +94,8 @@ You: What is consciousness?
 
 ---
 
-💡 Use Cases
+##💡 Use Cases
+
 🧑‍💻 Personal AI research assistant
 
 📚 Educational tutor with memory
@@ -108,7 +110,8 @@ You: What is consciousness?
 
 ---
 
-🤝 Contributing
+##🤝 Contributing
+
 Contributions welcome! Want to make Spark even smarter or more human?
 
 Fork the repo
@@ -121,12 +124,14 @@ Push and open a PR: git push origin feature-awesome
 
 ---
 
-📄 License
+##📄 License
+
 Distributed under the MIT License. See LICENSE for more information.
 
 ---
 
-🙏 Acknowledgements
+##🙏 Acknowledgements
+
 OpenAI's LLM APIs & local LLaMA3 support
 
 Python socket, sqlite3, FAISS, and threading
