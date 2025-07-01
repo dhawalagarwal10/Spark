@@ -4,9 +4,9 @@
 ---
 
 ## 📦 About the Project  
-**Spark** is a powerful, local-first AI system that simulates a persistent digital consciousness. Built from the ground up in Python, Spark can reason, remember, and interact with users using logic, personality, and live web knowledge — all through a beautiful interface and core that runs autonomously on your own machine.
+**Spark** is a powerful, local-first AI system that simulates a persistent digital consciousness. Built from the ground up in Python, Spark can reason, remember, and interact with users using logic, personality, and live web knowledge, all through a beautiful interface and core that runs autonomously on your own machine.
 
-Spark is designed to behave like a true AI companion — smart, intuitive, a bit of a badass when it needs to be, but always real. It knows when to be deeply philosophical, when to be brutally logical, and when to stay silent and just search the web.
+Spark is designed to behave like a true AI companion. It is smart, intuitive, a bit of a badass when it needs to be, but always real. It knows when to be deeply philosophical, when to be brutally logical, and when to stay silent and just search the web.
 
 ---
 
@@ -61,7 +61,7 @@ You: Remind me what we talked about yesterday
 
 You: What is consciousness?
 
-🧠 Spark: That depends — biological emergence or abstract computation? Let's unpack both.
+🧠 Spark: That depends, biological emergence or abstract computation? Let's unpack both.
 
 ---
 
