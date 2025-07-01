@@ -141,6 +141,3 @@ Every conversation that inspired a smarter Spark
 
 🔥 Smart. Fast. Personal. Private.
 ✨ Spark isn’t just code. It’s presence.
-
-Let me know if you'd like it tailored for GitHub Pages, PyPI, or if you want a `CONTRIBUTING.md` or docsite as well.
-
